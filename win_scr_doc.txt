@@ -4,8 +4,9 @@ In JavaScript, window, screen, and document are all objects that are part of the
 Window object:
 
 1) The window object represents the browser window or tab that contains the current webpage.
-2) It serves as the global object in the browser's JavaScript environment, meaning that global variables and functions are    properties and methods of the window object.
-3) It provides various properties and methods related to the browser window, such as manipulating the window size,    navigating to URLs, setting timers, and handling events.
+2) It serves as the global object in the browser's JavaScript environment, meaning that global variables and functions are 
+   properties and methods of the window object.
+3) It provides various properties and methods related to the browser window, such as manipulating the window size, navigating to URLs,      setting timers, and handling events.
    Examples: window.alert(), window.location, window.setTimeout()
 
 
@@ -14,7 +15,7 @@ Screen object:
 
 1) The screen object represents the user's screen or display.
 2) It provides information about the user's screen, such as screen dimensions, pixel density, and color depth.
-3) It allows you to retrieve information about the user's screen to make adjustments or optimizations in your web    application.
+3) It allows you to retrieve information about the user's screen to make adjustments or optimizations in your web application.
    Examples: screen.width, screen.height, screen.pixelDepth
 
 
@@ -22,12 +23,14 @@ Screen object:
 Document object:
 
 1) The document object represents the current web page loaded in the browser.
-2) It provides access to the HTML elements and content within the web page, allowing you to manipulate or interact with    them dynamically.
-3) It offers methods and properties to manipulate the document structure, query for elements, modify content, handle    events, and more.
+2) It provides access to the HTML elements and content within the web page, allowing you to manipulate or interact with them dynamically.
+3) It offers methods and properties to manipulate the document structure, query for elements, modify content, handle events, and more.
    Examples: document.getElementById(), document.querySelector(), document.createElement()
 
 
-In summary, the window object represents the browser window or tab, the screen object represents the user's screen, and the document object represents the current web page loaded in the browser. They each serve different purposes and provide different functionalities within the JavaScript environment of the browser.
+In summary, the window object represents the browser window or tab, the screen object represents the user's screen, 
+and the document object represents the current web page loaded in the browser. 
+They each serve different purposes and provide different functionalities within the JavaScript environment of the browser.
 
 
 
